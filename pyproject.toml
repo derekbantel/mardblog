@@ -38,8 +38,8 @@ dependencies = [
 mardblog = "mardblog.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/mardblog"
-Repository = "https://github.com/yourusername/mardblog"
+Homepage = "https://github.com/derekbantel/mardblog"
+Repository = "https://github.com/derekbantel/mardblog"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/mardblog"]
